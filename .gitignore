@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+
+# VSCode config
+.vscode/
+
+# Data files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.gz
+*.csv
+
+# Si quieres mantener cleaned_dataset.csv en el repo, quítalo de aquí arriba
+
+# Modelos entrenados
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.sav
+
+# Archivos temporales de Word o backups
+*.tmp
+*.bak
+~$*
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
