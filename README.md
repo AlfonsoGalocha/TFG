@@ -48,7 +48,8 @@ El proyecto se basa en el dataset **CICIDS2017**, proporcionado por el Canadian 
 - ✅ Implementación y evaluación de modelos: regresión logística y random forest
 - ✅ Generación de modelos entrenados (`.pkl`)
 - ✅ Documentación del proyecto actualizada
-- 🔜 (Opcional) Script para la realización de pruebas de los modelos
+- Modelo SVM desarrollar y documentar
+- Comparacion entre modelos 
 ---
 
 ## 🧑‍💻 Autor
