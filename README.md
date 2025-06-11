@@ -10,7 +10,7 @@ Diseñar y construir un IDS inteligente capaz de:
 
 - Analizar tráfico de red y extraer características relevantes.
 - Clasificar automáticamente comportamientos normales y maliciosos.
-- Detectar diversos tipos de ciberataques usando algoritmos de aprendizaje automático.
+- Detectar ciberataques usando algoritmos de aprendizaje automático.
 - Evaluar el rendimiento del sistema a través de métricas como precisión, recall y F1-score.
 
 ---
